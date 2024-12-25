@@ -2,7 +2,7 @@
 # san_industries
 We empower the B-STEM and providing great products and services
 
-Edit the portfolio by modifying src/pages/index.tsx and src/styles/globals.css to emulate corporate portfolio. Made some improvements and want to share? Open a pull request
+Edit the portfolio by modifying `src/pages/index.tsx` and `src/styles/globals.css` to emulate corporate portfolio. Made some improvements and want to share? Open a pull request
 
 ## Features
 - **Responsive Design**: The webpage is designed to be fully responsive, providing an optimal viewing experience across a wide range of devices from desktops to mobile phones.
