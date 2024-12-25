@@ -9,11 +9,13 @@ Edit the portfolio by modifying src/pages/index.tsx and src/styles/globals.css t
 - **Stunning UI/UX Design**: The webpage boasts a sleek and modern design, using smooth animations to capture the attention of potential employers or clients.
 - **Interactive UI**: Webpage offers an interactive user interface that enhances user experience, such as `locomotive-scroll` and `framer-motion`.
 
+```bash
 # Install dependencies
 $ npm install
 
 # Start the development server:
 $ npm run dev
+```bash
 
 ```mermaid
 graph TD
