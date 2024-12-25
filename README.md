@@ -1,3 +1,4 @@
+
 # san_industries
 We empower the B-STEM and providing great products and services
 
@@ -8,14 +9,6 @@ Edit the portfolio by modifying src/pages/index.tsx and src/styles/globals.css t
 - **Easy Customization**: The webpage structure is straightforward and well organized, making it easy to customize and showcase your unique set of skills and projects.
 - **Stunning UI/UX Design**: The webpage boasts a sleek and modern design, using smooth animations to capture the attention of potential employers or clients.
 - **Interactive UI**: Webpage offers an interactive user interface that enhances user experience, such as `locomotive-scroll` and `framer-motion`.
-
-```bash
-# Install dependencies
-$ npm install
-
-# Start the development server:
-$ npm run dev
-```bash
 
 ```mermaid
 graph TD
@@ -46,3 +39,13 @@ graph TD
   E1 --> G1[Modern Scrolling Experience]
   E2 --> G2[Professional Feel with Interactive Elements]
   E3 --> G3[User-Centric Design Approach]
+
+```
+
+```bash
+# Install dependencies
+$ npm install
+
+# Start the development server:
+$ npm run dev
+
